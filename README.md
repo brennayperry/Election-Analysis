@@ -13,6 +13,7 @@ For this audit we needed to do the following
 ##Project Summary 
 The analysis of election results shows:
 The total number of votes are 369,711
+County Results are:
 Jefferson county received 10.5% of the votes and  38,855 total votes
 Denver county received 82.8% of the votes and 306,055 total votes
 Arapahoe county received 6.7% of the votes and 24,801 total votes
@@ -26,7 +27,8 @@ Charles Casper Stockham: received  23.0% of votes and had 85,213 number of votes
 Diana DeGette: received  73.8% of votes and had  272,892 number of votes 
 Raymon Anthony Doane: received 3.1% of the votes and had 11,606 number of votes                                                              
 The winner of the election was  Diana DeGette, who received  73.8% of votes and had  272,892 number of votes 
-!{This is an Image}(![SC Results](https://user-images.githubusercontent.com/89491163/135779041-f256ba64-9acd-4fe7-9f99-2a35dc434bf4.png)
+!{This is an Image}![SC Results](https://user-images.githubusercontent.com/89491163/135779213-f5905c95-06fd-4faa-ac73-b1d0cfed8a2d.png)
+
 
 ##Challenge Overview
 After completing audit add new script in order to view:
